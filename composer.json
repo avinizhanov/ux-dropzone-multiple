@@ -1,13 +1,16 @@
 {
-    "name": "symfony/ux-dropzone",
+    "name": "yassinehamouten/ux-dropzone-multiple",
     "type": "symfony-bundle",
-    "description": "File input dropzones for Symfony Forms",
+    "description": "File input dropzones multiple for Symfony Forms",
     "keywords": [
         "symfony-ux"
     ],
-    "homepage": "https://symfony.com",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Yassine Hamouten",
+            "email": "yassine.hamouten@gmail.com"
+        },
         {
             "name": "Titouan Galopin",
             "email": "galopintitouan@gmail.com"

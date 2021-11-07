@@ -18,6 +18,7 @@ use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\UX\Dropzone\Form\DropzoneType;
 
 /**
+ * @author Yassine Hamouten <yassinehamouten@gmail.com>
  * @author Titouan Galopin <galopintitouan@gmail.com>
  *
  * @internal
